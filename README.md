@@ -75,8 +75,8 @@ http://localhost:4000/users
 Request body:
 
 {
-    "username": "Supraja",
-    "email": "supraja@example.com"
+    "username": "Divya",
+    "email": "Divya@example.com"
 }
 
 Example response:
@@ -96,8 +96,8 @@ Example response:
 [
     {
         "id": 1,
-        "username": "Supraja",
-        "email": "supraja@example.com"
+        "username": "Divya",
+        "email": "Divya@example.com"
     }
 ]
 
@@ -112,8 +112,8 @@ Example response:
 {
     "user": {
         "id": 1,
-        "username": "Supraja",
-        "email": "supraja@example.com"
+        "username": "Divya",
+        "email": "Divya@example.com"
     }
 }
 
@@ -126,7 +126,7 @@ http://localhost:4000/users/1
 Request body:
 
 {
-    "username": "Supraja Updated",
+    "username": "Divya Updated",
     "email": "updated@example.com"
 }
 
